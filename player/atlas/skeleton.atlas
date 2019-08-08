@@ -1,19 +1,33 @@
 
 skeleton.png
-size: 128,64
+size: 256,64
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 attachments/eye
   rotate: false
-  xy: 97, 2
+  xy: 99, 38
   size: 5, 2
   orig: 5, 2
   offset: 0, 0
   index: -1
+attachments/guns/anvil 
+  rotate: false
+  xy: 99, 42
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+attachments/guns/cork
+  rotate: false
+  xy: 141, 42
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
 attachments/guns/zebra
-  rotate: true
-  xy: 99, 22
+  rotate: false
+  xy: 183, 42
   size: 40, 20
   orig: 40, 20
   offset: 0, 0
@@ -40,29 +54,29 @@ helmat
   offset: 0, 0
   index: -1
 left-shoe
-  rotate: true
-  xy: 121, 54
+  rotate: false
+  xy: 246, 57
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 lower-leftleg
-  rotate: false
-  xy: 44, 5
+  rotate: true
+  xy: 23, 12
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
 lower-rightleg
   rotate: false
-  xy: 97, 6
+  xy: 237, 48
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
 right-shoe
-  rotate: true
-  xy: 121, 44
+  rotate: false
+  xy: 246, 50
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
@@ -75,8 +89,8 @@ upper-leftleg
   offset: 0, 0
   index: -1
 upper-rightleg
-  rotate: true
-  xy: 23, 9
+  rotate: false
+  xy: 225, 43
   size: 10, 19
   orig: 10, 19
   offset: 0, 0
