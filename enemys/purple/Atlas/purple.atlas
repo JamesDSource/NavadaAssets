@@ -6,63 +6,63 @@ filter: Linear,Linear
 repeat: none
 body
   rotate: true
-  xy: 56, 8
-  size: 22, 48
-  orig: 22, 48
+  xy: 66, 4
+  size: 26, 57
+  orig: 26, 57
   offset: 0, 0
   index: -1
 bottom-left-leg
   rotate: true
-  xy: 148, 2
+  xy: 167, 2
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 bottom-right-leg
   rotate: true
-  xy: 167, 2
+  xy: 186, 2
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 head
   rotate: true
-  xy: 2, 8
-  size: 22, 52
-  orig: 22, 52
+  xy: 2, 4
+  size: 26, 62
+  orig: 26, 62
   offset: 0, 0
   index: -1
 left-shoe
-  rotate: true
-  xy: 193, 2
+  rotate: false
+  xy: 125, 2
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 right-shoe
   rotate: true
-  xy: 184, 2
+  xy: 203, 2
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 top-left-leg
   rotate: true
-  xy: 148, 12
+  xy: 167, 12
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
 top-right-leg
   rotate: true
-  xy: 176, 13
+  xy: 195, 13
   size: 17, 25
   orig: 17, 25
   offset: 0, 0
   index: -1
 zebra
   rotate: false
-  xy: 106, 10
+  xy: 125, 10
   size: 40, 20
   orig: 40, 20
   offset: 0, 0
