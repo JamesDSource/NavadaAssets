@@ -1,103 +1,103 @@
 
 skeleton.png
-size: 256,64
+size: 512,32
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 attachments/eye
-  rotate: true
-  xy: 40, 2
-  size: 5, 2
-  orig: 5, 2
+  rotate: false
+  xy: 317, 27
+  size: 7, 3
+  orig: 7, 3
   offset: 0, 0
   index: -1
 attachments/flash
   rotate: false
-  xy: 2, 3
+  xy: 246, 14
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 attachments/guns/anvil 
   rotate: false
-  xy: 99, 42
+  xy: 46, 10
   size: 40, 20
   orig: 40, 20
   offset: 0, 0
   index: -1
 attachments/guns/cork
   rotate: false
-  xy: 141, 42
+  xy: 88, 10
   size: 40, 20
   orig: 40, 20
   offset: 0, 0
   index: -1
 attachments/guns/zebra
   rotate: false
-  xy: 183, 42
+  xy: 130, 10
   size: 40, 20
   orig: 40, 20
   offset: 0, 0
   index: -1
 body
   rotate: true
-  xy: 53, 34
-  size: 28, 44
-  orig: 28, 44
+  xy: 2, 8
+  size: 22, 42
+  orig: 22, 42
   offset: 0, 0
   index: -1
 head
   rotate: false
-  xy: 53, 2
-  size: 42, 30
-  orig: 42, 30
+  xy: 212, 6
+  size: 32, 24
+  orig: 32, 24
   offset: 0, 0
   index: -1
 helmat
   rotate: false
-  xy: 2, 21
-  size: 49, 41
-  orig: 49, 41
+  xy: 172, 5
+  size: 38, 25
+  orig: 38, 25
   offset: 0, 0
   index: -1
 left-shoe
-  rotate: false
-  xy: 20, 2
-  size: 8, 5
-  orig: 8, 5
+  rotate: true
+  xy: 46, 2
+  size: 6, 5
+  orig: 6, 5
   offset: 0, 0
   index: -1
 lower-leftleg
-  rotate: false
-  xy: 238, 48
+  rotate: true
+  xy: 285, 23
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
 lower-rightleg
-  rotate: false
-  xy: 247, 48
+  rotate: true
+  xy: 301, 23
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
 right-shoe
   rotate: false
-  xy: 30, 2
-  size: 8, 5
-  orig: 8, 5
+  xy: 264, 14
+  size: 7, 5
+  orig: 7, 5
   offset: 0, 0
   index: -1
 upper-leftleg
-  rotate: false
-  xy: 225, 43
-  size: 11, 19
-  orig: 11, 19
+  rotate: true
+  xy: 264, 21
+  size: 9, 19
+  orig: 9, 19
   offset: 0, 0
   index: -1
 upper-rightleg
   rotate: true
-  xy: 20, 9
+  xy: 246, 2
   size: 10, 19
   orig: 10, 19
   offset: 0, 0
