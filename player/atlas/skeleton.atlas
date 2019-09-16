@@ -1,104 +1,125 @@
 
 skeleton.png
-size: 512,32
+size: 1024,64
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-attachments/eye
-  rotate: false
-  xy: 317, 27
-  size: 7, 3
-  orig: 7, 3
-  offset: 0, 0
-  index: -1
 attachments/flash
   rotate: false
-  xy: 246, 14
+  xy: 902, 40
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 attachments/guns/anvil 
   rotate: false
-  xy: 46, 10
+  xy: 2, 2
   size: 40, 20
   orig: 40, 20
   offset: 0, 0
   index: -1
 attachments/guns/cork
   rotate: false
-  xy: 88, 10
+  xy: 860, 36
   size: 40, 20
   orig: 40, 20
   offset: 0, 0
   index: -1
 attachments/guns/zebra
   rotate: false
-  xy: 130, 10
+  xy: 44, 2
   size: 40, 20
   orig: 40, 20
   offset: 0, 0
   index: -1
-body
+player_idle/player_idle1
   rotate: true
-  xy: 2, 8
-  size: 22, 42
-  orig: 22, 42
+  xy: 68, 24
+  size: 32, 64
+  orig: 32, 64
   offset: 0, 0
   index: -1
-head
-  rotate: false
-  xy: 212, 6
-  size: 32, 24
-  orig: 32, 24
-  offset: 0, 0
-  index: -1
-helmat
-  rotate: false
-  xy: 172, 5
-  size: 38, 25
-  orig: 38, 25
-  offset: 0, 0
-  index: -1
-left-shoe
+player_idle/player_idle2
   rotate: true
-  xy: 46, 2
-  size: 6, 5
-  orig: 6, 5
+  xy: 134, 24
+  size: 32, 64
+  orig: 32, 64
   offset: 0, 0
   index: -1
-lower-leftleg
+player_idle/player_idle3
   rotate: true
-  xy: 285, 23
-  size: 7, 14
-  orig: 7, 14
+  xy: 200, 24
+  size: 32, 64
+  orig: 32, 64
   offset: 0, 0
   index: -1
-lower-rightleg
+player_idle/player_idle4
   rotate: true
-  xy: 301, 23
-  size: 7, 14
-  orig: 7, 14
+  xy: 2, 24
+  size: 32, 64
+  orig: 32, 64
   offset: 0, 0
   index: -1
-right-shoe
-  rotate: false
-  xy: 264, 14
-  size: 7, 5
-  orig: 7, 5
-  offset: 0, 0
-  index: -1
-upper-leftleg
+player_run/player_side_run1
   rotate: true
-  xy: 264, 21
-  size: 9, 19
-  orig: 9, 19
+  xy: 266, 24
+  size: 32, 64
+  orig: 32, 64
   offset: 0, 0
   index: -1
-upper-rightleg
+player_run/player_side_run2
   rotate: true
-  xy: 246, 2
-  size: 10, 19
-  orig: 10, 19
+  xy: 332, 24
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+player_run/player_side_run3
+  rotate: true
+  xy: 398, 24
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+player_run/player_side_run4
+  rotate: true
+  xy: 464, 24
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+player_run/player_side_run5
+  rotate: true
+  xy: 530, 24
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+player_run/player_side_run6
+  rotate: true
+  xy: 596, 24
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+player_run/player_side_run7
+  rotate: true
+  xy: 662, 24
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+player_run/player_side_run8
+  rotate: true
+  xy: 728, 24
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+player_side
+  rotate: true
+  xy: 794, 24
+  size: 32, 64
+  orig: 32, 64
   offset: 0, 0
   index: -1
