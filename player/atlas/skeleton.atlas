@@ -1,12 +1,12 @@
 
 skeleton.png
-size: 1024,64
+size: 1024,128
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 attachments/flash
   rotate: false
-  xy: 902, 40
+  xy: 44, 6
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
@@ -20,105 +20,168 @@ attachments/guns/anvil
   index: -1
 attachments/guns/cork
   rotate: false
-  xy: 860, 36
+  xy: 702, 102
   size: 40, 20
   orig: 40, 20
   offset: 0, 0
   index: -1
 attachments/guns/zebra
   rotate: false
-  xy: 44, 2
+  xy: 530, 36
   size: 40, 20
   orig: 40, 20
   offset: 0, 0
   index: -1
 player_idle/player_idle1
   rotate: true
-  xy: 68, 24
+  xy: 2, 24
   size: 32, 64
   orig: 32, 64
   offset: 0, 0
   index: -1
 player_idle/player_idle2
-  rotate: true
-  xy: 134, 24
+  rotate: false
+  xy: 464, 58
   size: 32, 64
   orig: 32, 64
   offset: 0, 0
   index: -1
 player_idle/player_idle3
   rotate: true
-  xy: 200, 24
+  xy: 68, 24
   size: 32, 64
   orig: 32, 64
   offset: 0, 0
   index: -1
 player_idle/player_idle4
-  rotate: true
-  xy: 2, 24
+  rotate: false
+  xy: 498, 58
   size: 32, 64
   orig: 32, 64
   offset: 0, 0
   index: -1
+player_roll/player_roll1
+  rotate: false
+  xy: 68, 58
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+player_roll/player_roll2
+  rotate: false
+  xy: 134, 58
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+player_roll/player_roll3
+  rotate: false
+  xy: 200, 58
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+player_roll/player_roll4
+  rotate: false
+  xy: 266, 58
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+player_roll/player_roll5
+  rotate: false
+  xy: 332, 58
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+player_roll/player_roll6
+  rotate: false
+  xy: 398, 58
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+player_roll/player_roll7
+  rotate: false
+  xy: 2, 58
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 player_run/player_side_run1
   rotate: true
-  xy: 266, 24
+  xy: 134, 24
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+player_run/player_side_run10
+  rotate: false
+  xy: 668, 58
   size: 32, 64
   orig: 32, 64
   offset: 0, 0
   index: -1
 player_run/player_side_run2
-  rotate: true
-  xy: 332, 24
+  rotate: false
+  xy: 532, 58
   size: 32, 64
   orig: 32, 64
   offset: 0, 0
   index: -1
 player_run/player_side_run3
   rotate: true
-  xy: 398, 24
+  xy: 200, 24
   size: 32, 64
   orig: 32, 64
   offset: 0, 0
   index: -1
 player_run/player_side_run4
-  rotate: true
-  xy: 464, 24
+  rotate: false
+  xy: 566, 58
   size: 32, 64
   orig: 32, 64
   offset: 0, 0
   index: -1
 player_run/player_side_run5
   rotate: true
-  xy: 530, 24
+  xy: 266, 24
   size: 32, 64
   orig: 32, 64
   offset: 0, 0
   index: -1
 player_run/player_side_run6
-  rotate: true
-  xy: 596, 24
+  rotate: false
+  xy: 600, 58
   size: 32, 64
   orig: 32, 64
   offset: 0, 0
   index: -1
 player_run/player_side_run7
   rotate: true
-  xy: 662, 24
+  xy: 332, 24
   size: 32, 64
   orig: 32, 64
   offset: 0, 0
   index: -1
 player_run/player_side_run8
+  rotate: false
+  xy: 634, 58
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+player_run/player_side_run9
   rotate: true
-  xy: 728, 24
+  xy: 398, 24
   size: 32, 64
   orig: 32, 64
   offset: 0, 0
   index: -1
 player_side
   rotate: true
-  xy: 794, 24
+  xy: 464, 24
   size: 32, 64
   orig: 32, 64
   offset: 0, 0
